@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\uqayyum\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\uqayyum\\.nuget\\packages"
+    ]
+  }
+}

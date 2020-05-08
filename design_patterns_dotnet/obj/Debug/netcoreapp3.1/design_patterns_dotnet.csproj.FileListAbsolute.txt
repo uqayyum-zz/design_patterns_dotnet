@@ -1,0 +1,10 @@
+D:\Open Repos\design_patterns_dotnet\design_patterns_dotnet\bin\Debug\netcoreapp3.1\design_patterns_dotnet.exe
+D:\Open Repos\design_patterns_dotnet\design_patterns_dotnet\bin\Debug\netcoreapp3.1\design_patterns_dotnet.deps.json
+D:\Open Repos\design_patterns_dotnet\design_patterns_dotnet\bin\Debug\netcoreapp3.1\design_patterns_dotnet.runtimeconfig.json
+D:\Open Repos\design_patterns_dotnet\design_patterns_dotnet\bin\Debug\netcoreapp3.1\design_patterns_dotnet.runtimeconfig.dev.json
+D:\Open Repos\design_patterns_dotnet\design_patterns_dotnet\bin\Debug\netcoreapp3.1\design_patterns_dotnet.dll
+D:\Open Repos\design_patterns_dotnet\design_patterns_dotnet\bin\Debug\netcoreapp3.1\design_patterns_dotnet.pdb
+D:\Open Repos\design_patterns_dotnet\design_patterns_dotnet\obj\Debug\netcoreapp3.1\design_patterns_dotnet.AssemblyInfoInputs.cache
+D:\Open Repos\design_patterns_dotnet\design_patterns_dotnet\obj\Debug\netcoreapp3.1\design_patterns_dotnet.AssemblyInfo.cs
+D:\Open Repos\design_patterns_dotnet\design_patterns_dotnet\obj\Debug\netcoreapp3.1\design_patterns_dotnet.dll
+D:\Open Repos\design_patterns_dotnet\design_patterns_dotnet\obj\Debug\netcoreapp3.1\design_patterns_dotnet.pdb
